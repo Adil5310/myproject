@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89027349474",
+    "project_id": "soft-card",
+    "storage_bucket": "soft-card.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89027349474:android:74bfe668c9879ab81587bb",
+        "android_client_info": {
+          "package_name": "Adil.com.softcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89027349474-7regoqsek2pp69u8sd9frnr5fi3cd5gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Adil.com.softcard",
+            "certificate_hash": "970e616d60951ea7aa683cae0b358204af953340"
+          }
+        },
+        {
+          "client_id": "89027349474-n5rc26vh7lit498l305nr80kjdo06ci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3d7ok3xg9fvtT90RF8679-0WxELvsjY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89027349474-n5rc26vh7lit498l305nr80kjdo06ci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
